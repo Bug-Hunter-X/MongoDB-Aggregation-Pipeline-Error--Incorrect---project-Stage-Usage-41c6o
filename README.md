@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MongoDB aggregation pipelines involving the \$project stage. The bug showcases an incorrect usage of the \$project stage in an aggregation pipeline designed to group documents and count their occurrences. The solution provides the corrected aggregation pipeline with explanations.
